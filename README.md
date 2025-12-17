@@ -14,7 +14,7 @@ The Klokking Management System aims to simplify event administration while offer
 
 You can view the current bèta version here:
 
-**[Klokking 2026 Bèta – Live Preview](https://gadijkhuis.github.io/Klokking-2026-Bèta/)**
+**[Klokking 2026 Bèta – Live Preview](https://gadijkhuis.github.io/Klokking-2026-Beta/)**
 
 ---
 
