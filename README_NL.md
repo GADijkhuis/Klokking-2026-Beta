@@ -4,7 +4,7 @@
 Klokking is een wedstrijdregistratie- en beheersysteem dat speciaal is ontwikkeld voor **kanosprint- en kanomarathonwedstrijden**.  
 Het platform ondersteunt **online inschrijvingen**, **wedstrijdbeheer** en het **online publiceren van uitslagen**, waardoor organisatoren hun evenementen efficiënt en betrouwbaar van begin tot eind kunnen beheren.
 
-Het Klokking Systeem is bedoeld om de administratieve last te verminderen en tegelijkertijd deelnemers en toeschouwers te voorzien van duidelijke en toegankelijke wedstrijdinformatie.
+Het Klokking Beheer Systeem is bedoeld om de administratieve last te verminderen en tegelijkertijd deelnemers en toeschouwers te voorzien van duidelijke en toegankelijke wedstrijdinformatie.
 
 >Dit project bevindt zich momenteel in **bèta**, wat betekent dat functionaliteit kan veranderen naarmate de ontwikkeling vordert.
 
@@ -43,6 +43,7 @@ Datums kunnen licht verschuiven afhankelijk van de voortgang van de ontwikkeling
 - Toevoegen van aangepaste velden bij inschrijvingen
 - Automatisch invullen van de planning op basis van inschrijvingen
 - UI/UX-verbeteringen (design)
+- Nieuw account aanmaken functie
 
 ### Februari 2026
 - Ondersteuning voor meerdere talen

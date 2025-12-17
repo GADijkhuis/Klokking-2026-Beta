@@ -43,6 +43,7 @@ Dates may shift slightly depending on development progress.
 - Added custom fields for registrations
 - Auto infill of Schedule based on registrations
 - UI/UX Improvements (design)
+- Create new account function
 
 ### February 2026
 - Multi Language Support
