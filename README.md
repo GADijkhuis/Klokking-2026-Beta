@@ -33,20 +33,21 @@ If you would like access for testing, reviewing, or collaboration purposes, plea
 Planned features are rolled out incrementally and grouped by month.  
 Dates may shift slightly depending on development progress.
 
-### December 2025
-- Bèta Schedule
-- Bèta Time Registration
-- Bèta Results Publication
-
 ### January 2026
 - Changes in participants download for RG
 - Added custom fields for registrations
 - Auto infill of Schedule based on registrations
-- UI/UX Improvements (design)
-- Create new account function
+- Bèta Schedule
+- Bèta Time Registration
+- Bèta Results Publication
 
 ### February 2026
 - Multi Language Support
+- Passwordless email logins
+
+### March 2026
+- UI/UX Improvements (design)
+- **14-3-2026** Test Race Klokking
 
 ---
 
