@@ -33,21 +33,21 @@ Wil je toegang voor testdoeleinden, beoordeling of samenwerking? Stuur dan een e
 Geplande functies worden stapsgewijs uitgerold en gegroepeerd per maand.  
 Datums kunnen licht verschuiven afhankelijk van de voortgang van de ontwikkeling.
 
-### December 2025
-- Bèta planning
-- Bèta tijdregistratie
-- Bèta publicatie van uitslagen
-
 ### Januari 2026
 - Wijzigingen in het downloaden van deelnemers voor RG
 - Toevoegen van aangepaste velden bij inschrijvingen
 - Automatisch invullen van de planning op basis van inschrijvingen
-- UI/UX-verbeteringen (design)
-- Nieuw account aanmaken functie
+- Bèta planning
+- Bèta tijdregistratie
+- Bèta publicatie van uitslagen
 
 ### Februari 2026
 - Ondersteuning voor meerdere talen
+- Zonder wachtwoord inloggen
 
+### Maart 2026
+- UI/UX-verbeteringen (design)
+- **14-3-2026** Test Wedstrijd Klokking
 ---
 
 ## 🛠️ Technologie & Architectuur
