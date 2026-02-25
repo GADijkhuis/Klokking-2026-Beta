@@ -18,6 +18,19 @@ Je kunt de huidige bèta-versie hier bekijken:
 
 ---
 
+## ✨ Wat is er nieuw (v0.1.2)
+- Passwordless login
+- Bèta planning
+- Bèta tijdregistratie
+- Export naar CSV voor afstanden
+- Evenement URL is zichtbaar voor de gebruiker
+- Evenement email veld
+- Wedstrijd type veld
+- Publiceren optie
+- UI and UX improvements
+
+---
+
 ## 🔐 Toegang tot inloggen
 
 Inloggegevens zijn momenteel **niet openbaar** en het is **niet mogelijk om zelf een account aan te maken**.
@@ -33,21 +46,15 @@ Wil je toegang voor testdoeleinden, beoordeling of samenwerking? Stuur dan een e
 Geplande functies worden stapsgewijs uitgerold en gegroepeerd per maand.  
 Datums kunnen licht verschuiven afhankelijk van de voortgang van de ontwikkeling.
 
-### Januari 2026
-- Wijzigingen in het downloaden van deelnemers voor RG
-- Toevoegen van aangepaste velden bij inschrijvingen
-- Automatisch invullen van de planning op basis van inschrijvingen
-- Bèta planning
-- Bèta tijdregistratie
-- Bèta publicatie van uitslagen
-
-### Februari 2026
-- Ondersteuning voor meerdere talen
-- Zonder wachtwoord inloggen
-
 ### Maart 2026
-- UI/UX-verbeteringen (design)
-- **14-3-2026** Test Wedstrijd Klokking
+- UI/UX Verbeteringen (design)
+- Bèta publicatie van uitslagen
+- Automatisch invullen van de planning op basis van inschrijvingen
+- **14-3-2026** Test Race Klokking
+
+### April 2026
+- Ondersteuning voor meerdere talen
+
 ---
 
 ## 🛠️ Technologie & Architectuur
