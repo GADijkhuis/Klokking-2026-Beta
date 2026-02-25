@@ -18,6 +18,19 @@ You can view the current bèta version here:
 
 ---
 
+## ✨ What's new (v0.1.2)
+- Passwordless login
+- Bèta Schedule
+- Bèta Time Registration
+- Export to CSV for distances
+- Event URL is visible for the user
+- Event email field
+- Race type field
+- Public switch
+- UI and UX improvements
+
+---
+
 ## 🔐 Login Access
 
 Login credentials are currently **not public** and it is not possible to create an account by yourself.
@@ -33,21 +46,14 @@ If you would like access for testing, reviewing, or collaboration purposes, plea
 Planned features are rolled out incrementally and grouped by month.  
 Dates may shift slightly depending on development progress.
 
-### January 2026
-- Changes in participants download for RG
-- Added custom fields for registrations
-- Auto infill of Schedule based on registrations
-- Bèta Schedule
-- Bèta Time Registration
-- Bèta Results Publication
-
-### February 2026
-- Multi Language Support
-- Passwordless email logins
-
 ### March 2026
 - UI/UX Improvements (design)
+- Bèta Results Publication
+- Auto infill of Schedule based on registrations
 - **14-3-2026** Test Race Klokking
+
+### April 2026
+- Multi Language Support
 
 ---
 
