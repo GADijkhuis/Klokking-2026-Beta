@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Klokking-2026-Beta/static/css/main.4b62745c.css",
+    "main.js": "/Klokking-2026-Beta/static/js/main.dd32fd2b.js",
+    "static/js/453.649db950.chunk.js": "/Klokking-2026-Beta/static/js/453.649db950.chunk.js",
+    "static/media/space-grotesk.ttf": "/Klokking-2026-Beta/static/media/space-grotesk.f0f1fce4a59e46198487.ttf",
+    "index.html": "/Klokking-2026-Beta/index.html",
+    "main.4b62745c.css.map": "/Klokking-2026-Beta/static/css/main.4b62745c.css.map",
+    "main.dd32fd2b.js.map": "/Klokking-2026-Beta/static/js/main.dd32fd2b.js.map",
+    "453.649db950.chunk.js.map": "/Klokking-2026-Beta/static/js/453.649db950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b62745c.css",
+    "static/js/main.dd32fd2b.js"
+  ]
+}
